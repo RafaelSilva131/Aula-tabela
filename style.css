@@ -1,0 +1,46 @@
+h1{font-size: 2.5rem;}
+
+/* paragrafos */
+
+.texto{
+    font-size: 1.2rem;
+    padding: 30px;
+    width: 80%;
+}
+
+.paragrafo-claro{
+    background-color: #ff6f6ff5;
+}
+
+.paragrafo-escuro{ 
+    background-color: #ff68c5;
+}
+
+/* listas */
+
+.lista{
+    background-color: rgb(176, 251, 247);
+    width: 16%;
+    height: 15rem;
+    padding: .5rem;
+    border: solid 1rem royalblue;
+    
+}
+
+/* Tabelas */
+
+table{
+    border: solid;
+    color: #fff;
+    width: 20%;
+    height: 8rem;
+}
+
+.sobre-titulo{
+    background-color: #424250;
+}
+
+.titulo{
+    background-color: #00c4b4;
+
+}
